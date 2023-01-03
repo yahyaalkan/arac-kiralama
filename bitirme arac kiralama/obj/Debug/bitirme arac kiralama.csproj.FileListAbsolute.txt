@@ -1,0 +1,17 @@
+C:\Users\hp\Desktop\bitirme arac kiralama\obj\Debug\bitirme arac kiralama.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\bitirme arac kiralama\obj\Debug\bitirme arac kiralama.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\bitirme arac kiralama\obj\Debug\bitirme_arac_kiralama.Anasayfa.resources
+C:\Users\hp\Desktop\bitirme arac kiralama\obj\Debug\bitirme_arac_kiralama.AracEkle.resources
+C:\Users\hp\Desktop\bitirme arac kiralama\obj\Debug\bitirme_arac_kiralama.AracListele.resources
+C:\Users\hp\Desktop\bitirme arac kiralama\obj\Debug\bitirme_arac_kiralama.Satis.resources
+C:\Users\hp\Desktop\bitirme arac kiralama\obj\Debug\bitirme_arac_kiralama.MusteriListele.resources
+C:\Users\hp\Desktop\bitirme arac kiralama\obj\Debug\bitirme_arac_kiralama.MusteriEkle.resources
+C:\Users\hp\Desktop\bitirme arac kiralama\obj\Debug\bitirme_arac_kiralama.Properties.Resources.resources
+C:\Users\hp\Desktop\bitirme arac kiralama\obj\Debug\bitirme arac kiralama.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\bitirme arac kiralama\obj\Debug\bitirme arac kiralama.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\bitirme arac kiralama\bin\Debug\bitirme arac kiralama.exe.config
+C:\Users\hp\Desktop\bitirme arac kiralama\bin\Debug\bitirme arac kiralama.exe
+C:\Users\hp\Desktop\bitirme arac kiralama\bin\Debug\bitirme arac kiralama.pdb
+C:\Users\hp\Desktop\bitirme arac kiralama\obj\Debug\bitirme arac kiralama.exe
+C:\Users\hp\Desktop\bitirme arac kiralama\obj\Debug\bitirme arac kiralama.pdb
+C:\Users\hp\Desktop\bitirme arac kiralama\obj\Debug\bitirme_arac_kiralama.Sozlesme.resources
